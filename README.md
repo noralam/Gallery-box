@@ -27,5 +27,5 @@ Heavily customizable, easy to use, and built to support Youtube video gallery ,v
 
 #### How to use gallery Box
 See short video tutorial for better use
-<a href="https://www.youtube.com/watch?v=4iiglauY6xw&feature=youtu.be">Gallery Box video tutorial</a
+<a href="https://www.youtube.com/watch?v=4iiglauY6xw&feature=youtu.be">Gallery Box video tutorial</a>
 
