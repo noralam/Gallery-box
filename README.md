@@ -2,13 +2,13 @@
 Gallery Box is a nice wordpress Gallery plugin. You can create unlimited gallery with lots of effect by this plugin
 
 
-## What does this plugin do?
+### What does this plugin do?
 
-#### Gallery Box is a nice wordpress Gallery plugin. You can create unlimited gallery with lots of effect by this plugin.
+ Gallery Box is a nice wordpress Gallery plugin. You can create unlimited gallery with lots of effect by this plugin.
 
 Heavily customizable, easy to use, and built to support Youtube video gallery ,vimeo video gallery ,Soundcloud audio gallery,Iframe gallery and regular image gallery too.There are also lots of hover affect. All gallery items will be open nice and smooth lightbox.
 
-## Most powerful features: 
+### Most powerful features: 
 <ul>
 								<li><strong>Youtube video Gallery.</strong></li>
 								<li><strong>Vimeo video gallery.</strong></li>
@@ -28,4 +28,4 @@ Heavily customizable, easy to use, and built to support Youtube video gallery ,v
 #### How to use gallery Box
 See short video tutorial for better use
 
-[youtube https://www.youtube.com/watch?v=4iiglauY6xw&feature=youtu.be]
+<iframe width="420" height="315" src="https://www.youtube.com/embed/LufnCoPShZE" frameborder="0" allowfullscreen></iframe>
