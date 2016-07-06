@@ -1,0 +1,1042 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery Box\n"
+"POT-Creation-Date: 2016-05-27 11:24+0600\n"
+"PO-Revision-Date: 2016-05-27 11:24+0600\n"
+"Last-Translator: \n"
+"Language-Team: Gallery Box <nnalam50@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/add-button-tinymce.php:69
+msgid "No gallery found"
+msgstr ""
+
+#: admin/gallerybox-meta.php:24
+msgid "Choose gallery type and click to add item"
+msgstr ""
+
+#: admin/gallerybox-meta.php:35
+msgid "Click to add image gallery item"
+msgstr ""
+
+#: admin/gallerybox-meta.php:36 admin/gallerybox-meta.php:84
+#: admin/gallerybox-meta.php:158 admin/gallerybox-meta.php:226
+#: admin/gallerybox-meta.php:274
+msgid "Add more"
+msgstr ""
+
+#: admin/gallerybox-meta.php:37 admin/gallerybox-meta.php:85
+#: admin/gallerybox-meta.php:159 admin/gallerybox-meta.php:227
+#: admin/gallerybox-meta.php:275
+msgid "Remove"
+msgstr ""
+
+#: admin/gallerybox-meta.php:42 admin/gallerybox-meta.php:91
+msgid "Enter Gallery item title"
+msgstr ""
+
+#: admin/gallerybox-meta.php:43
+msgid "Set Your gallery item title here."
+msgstr ""
+
+#: admin/gallerybox-meta.php:48
+msgid "Set Gallery Image"
+msgstr ""
+
+#: admin/gallerybox-meta.php:49 admin/gallerybox-meta.php:245
+msgid ""
+"This image show in front.Image size (300*300) for 4 column,(450*450) for 3 "
+"column, (600*600) for 2 column. All images use same size for better view."
+msgstr ""
+
+#: admin/gallerybox-meta.php:55
+msgid "Set lightbox Image"
+msgstr ""
+
+#: admin/gallerybox-meta.php:56
+msgid ""
+"This image show when lightbox open.If you don't set this image, gallery "
+"image will be open lightbox."
+msgstr ""
+
+#: admin/gallerybox-meta.php:61
+msgid "Enter image lightbox caption"
+msgstr ""
+
+#: admin/gallerybox-meta.php:62 admin/gallerybox-meta.php:116
+#: admin/gallerybox-meta.php:253 admin/gallerybox-meta.php:299
+msgid ""
+"Set your lightbox caption.You can hide or show caption by lightbox settings."
+"Default caption is item title"
+msgstr ""
+
+#: admin/gallerybox-meta.php:68 admin/gallerybox-meta.php:143
+#: admin/gallerybox-meta.php:211 admin/gallerybox-meta.php:259
+#: admin/gallerybox-meta.php:325
+msgid "Enter button text"
+msgstr ""
+
+#: admin/gallerybox-meta.php:69
+msgid "Button text must be small.Default button text is( view large )"
+msgstr ""
+
+#: admin/gallerybox-meta.php:83
+msgid "Click to add Youtube video gallery item"
+msgstr ""
+
+#: admin/gallerybox-meta.php:92
+msgid "Youtube Gallery item title enter here. "
+msgstr ""
+
+#: admin/gallerybox-meta.php:99
+msgid "Enter video ID"
+msgstr ""
+
+#: admin/gallerybox-meta.php:100
+msgid ""
+"Past or type Youtube video id. Go Youtube url and copy video id and past id "
+"in this box.To know more see documentation."
+msgstr ""
+
+#: admin/gallerybox-meta.php:106
+msgid "Set Youtube Gallery Image"
+msgstr ""
+
+#: admin/gallerybox-meta.php:107
+msgid ""
+"(optional) This image show in front.Image size (300*300) for 4 column,"
+"(450*450) for 3 column, (600*600) for 2 column.Default image is ( Youtube "
+"default image)"
+msgstr ""
+
+#: admin/gallerybox-meta.php:115
+msgid "Enter video lightbox caption"
+msgstr ""
+
+#: admin/gallerybox-meta.php:121
+msgid "Enter youtube video width"
+msgstr ""
+
+#: admin/gallerybox-meta.php:122
+msgid "Youtube video lightbox width. Default width 600 )"
+msgstr ""
+
+#: admin/gallerybox-meta.php:132
+msgid "Enter youtube video height"
+msgstr ""
+
+#: admin/gallerybox-meta.php:133
+msgid "Youtube video lightbox height. Default height 400 )"
+msgstr ""
+
+#: admin/gallerybox-meta.php:144 admin/gallerybox-meta.php:212
+msgid "Button text must be small.Default button text is( Show video )"
+msgstr ""
+
+#: admin/gallerybox-meta.php:157
+msgid " Click to add Vimeo video gallery item"
+msgstr ""
+
+#: admin/gallerybox-meta.php:164 admin/gallerybox-meta.php:232
+#: admin/gallerybox-meta.php:280
+msgid "Enter gallery item title"
+msgstr ""
+
+#: admin/gallerybox-meta.php:165
+msgid "Vimeo gallery item title enter here."
+msgstr ""
+
+#: admin/gallerybox-meta.php:170
+msgid "Enter Vimeo video ID"
+msgstr ""
+
+#: admin/gallerybox-meta.php:171
+msgid ""
+"Past or type Vimeo video id. Go Vimeo url and copy video id and past id in "
+"this box.To know more see documentation."
+msgstr ""
+
+#: admin/gallerybox-meta.php:176
+msgid "Set Vimeo Gallery Image"
+msgstr ""
+
+#: admin/gallerybox-meta.php:177
+msgid ""
+"(optional) This image show in front.Image size (300*300) for 4 column,"
+"(450*450) for 3 column, (600*600) for 2 column. All images use same size for "
+"better view.Default image is ( Vimeo default image )"
+msgstr ""
+
+#: admin/gallerybox-meta.php:182
+msgid "Enter lightbox caption"
+msgstr ""
+
+#: admin/gallerybox-meta.php:183
+msgid ""
+"Set your lightbox caption.You can hide or show caption by lightbox settings."
+msgstr ""
+
+#: admin/gallerybox-meta.php:190
+msgid "Enter Vimeo video width"
+msgstr ""
+
+#: admin/gallerybox-meta.php:191
+msgid "Vimeo video lightbox width. Default width 600)"
+msgstr ""
+
+#: admin/gallerybox-meta.php:200
+msgid "Enter Vimeo video height"
+msgstr ""
+
+#: admin/gallerybox-meta.php:201
+msgid "Vimeo video lightbox height. Default height 400)"
+msgstr ""
+
+#: admin/gallerybox-meta.php:225
+msgid "Click to add Soundcloud audio gallery item"
+msgstr ""
+
+#: admin/gallerybox-meta.php:233
+msgid "Soundcloud gallery item title enter here."
+msgstr ""
+
+#: admin/gallerybox-meta.php:238
+msgid "Enter Soundcloud track id"
+msgstr ""
+
+#: admin/gallerybox-meta.php:239
+msgid "First select Soundcloud audio then copy audio id   from share button."
+msgstr ""
+
+#: admin/gallerybox-meta.php:244
+msgid "Set Soundcloud Gallery Image"
+msgstr ""
+
+#: admin/gallerybox-meta.php:251
+msgid "Enter Soundtrack lightbox caption"
+msgstr ""
+
+#: admin/gallerybox-meta.php:260
+msgid "Button text must be small.Default button text is( Listen song )"
+msgstr ""
+
+#: admin/gallerybox-meta.php:273
+msgid "Click to add iframe gallery item"
+msgstr ""
+
+#: admin/gallerybox-meta.php:281
+msgid "Iframe gallery item title enter here."
+msgstr ""
+
+#: admin/gallerybox-meta.php:286
+msgid "Set Iframe Gallery Image"
+msgstr ""
+
+#: admin/gallerybox-meta.php:287
+msgid ""
+"This image show in front.Image size (300*300) for 4 column,(450*450) for 3 "
+"column, (600*600) for 2 column.All images use same size for better view."
+msgstr ""
+
+#: admin/gallerybox-meta.php:292
+msgid "Enter page url"
+msgstr ""
+
+#: admin/gallerybox-meta.php:293
+msgid "Copy your webpage url and past this box."
+msgstr ""
+
+#: admin/gallerybox-meta.php:298
+msgid "Enter lightbox iframe caption"
+msgstr ""
+
+#: admin/gallerybox-meta.php:305
+msgid "Enter iframe width"
+msgstr ""
+
+#: admin/gallerybox-meta.php:306
+msgid "Iframe lightbox width. Default width 600)"
+msgstr ""
+
+#: admin/gallerybox-meta.php:315
+msgid "Enter iframe height"
+msgstr ""
+
+#: admin/gallerybox-meta.php:316
+msgid "Iframe lightbox height. Default height 400)"
+msgstr ""
+
+#: admin/gallerybox-meta.php:326
+msgid "Button text must be small.Default button text is( SHOW IFRAME )"
+msgstr ""
+
+#: admin/gallerybox-options.php:34 admin/gallerybox-options.php:35
+msgid "Gallery Box settings"
+msgstr ""
+
+#: admin/gallerybox-options.php:46
+msgid "Lightbox settings"
+msgstr ""
+
+#: admin/gallerybox-options.php:50
+msgid "Image gallery style"
+msgstr ""
+
+#: admin/gallerybox-options.php:54
+msgid "Youtube gallery style"
+msgstr ""
+
+#: admin/gallerybox-options.php:58
+msgid "Vimeo gallery style"
+msgstr ""
+
+#: admin/gallerybox-options.php:62
+msgid "Soundcloud gallery style"
+msgstr ""
+
+#: admin/gallerybox-options.php:66
+msgid "Iframe gallery style"
+msgstr ""
+
+#: admin/gallerybox-options.php:83
+msgid "Lightbox image loader"
+msgstr ""
+
+#: admin/gallerybox-options.php:84
+msgid "If you active this option, show the lightbox loader in image gallery."
+msgstr ""
+
+#: admin/gallerybox-options.php:96
+msgid "Set overlay color of lightbox"
+msgstr ""
+
+#: admin/gallerybox-options.php:97
+msgid "Overlay color set your choice."
+msgstr ""
+
+#: admin/gallerybox-options.php:104
+msgid "Set overlay opacity"
+msgstr ""
+
+#: admin/gallerybox-options.php:105
+msgid "opacity set 1 to 99.Default value 60"
+msgstr ""
+
+#: admin/gallerybox-options.php:112
+msgid "Entry lightbox fade speed"
+msgstr ""
+
+#: admin/gallerybox-options.php:113
+msgid "Set lightbox fade speed,default fade speed 300"
+msgstr ""
+
+#: admin/gallerybox-options.php:120
+msgid "lightbox caption"
+msgstr ""
+
+#: admin/gallerybox-options.php:121
+msgid "You can show hide lightbox caption."
+msgstr ""
+
+#: admin/gallerybox-options.php:125 admin/gallerybox-options.php:136
+msgid "Active"
+msgstr ""
+
+#: admin/gallerybox-options.php:126 admin/gallerybox-options.php:137
+msgid "Hide"
+msgstr ""
+
+#: admin/gallerybox-options.php:131
+msgid "Image Gallery navigation"
+msgstr ""
+
+#: admin/gallerybox-options.php:132
+msgid "Gallery navigation only work in image gallery."
+msgstr ""
+
+#: admin/gallerybox-options.php:146
+msgid "Image gallery column"
+msgstr ""
+
+#: admin/gallerybox-options.php:147
+msgid ""
+"Set your image gallery Column. Some of the animation may not work properly "
+"in 4 column."
+msgstr ""
+
+#: admin/gallerybox-options.php:151 admin/gallerybox-options.php:295
+#: admin/gallerybox-options.php:439 admin/gallerybox-options.php:583
+#: admin/gallerybox-options.php:729
+msgid "Two column"
+msgstr ""
+
+#: admin/gallerybox-options.php:152 admin/gallerybox-options.php:296
+#: admin/gallerybox-options.php:440 admin/gallerybox-options.php:584
+#: admin/gallerybox-options.php:730
+msgid "Three column"
+msgstr ""
+
+#: admin/gallerybox-options.php:153 admin/gallerybox-options.php:297
+#: admin/gallerybox-options.php:441 admin/gallerybox-options.php:585
+#: admin/gallerybox-options.php:731
+msgid "Four column"
+msgstr ""
+
+#: admin/gallerybox-options.php:158
+msgid "Image column border"
+msgstr ""
+
+#: admin/gallerybox-options.php:159
+msgid "Set your image border by px. default value 0"
+msgstr ""
+
+#: admin/gallerybox-options.php:166
+msgid "Image column border color"
+msgstr ""
+
+#: admin/gallerybox-options.php:167
+msgid "Set your image border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:173
+msgid "Image column border type"
+msgstr ""
+
+#: admin/gallerybox-options.php:174 admin/gallerybox-options.php:318
+#: admin/gallerybox-options.php:462 admin/gallerybox-options.php:606
+#: admin/gallerybox-options.php:752
+msgid ""
+"Dotted may not be seen,\n"
+"\t\t\t\t\tWhen the background color and border color same."
+msgstr ""
+
+#: admin/gallerybox-options.php:179 admin/gallerybox-options.php:323
+#: admin/gallerybox-options.php:467 admin/gallerybox-options.php:611
+#: admin/gallerybox-options.php:757
+msgid "Solid"
+msgstr ""
+
+#: admin/gallerybox-options.php:180 admin/gallerybox-options.php:324
+#: admin/gallerybox-options.php:468 admin/gallerybox-options.php:612
+#: admin/gallerybox-options.php:758
+msgid "Dotted"
+msgstr ""
+
+#: admin/gallerybox-options.php:185 admin/gallerybox-options.php:329
+#: admin/gallerybox-options.php:473 admin/gallerybox-options.php:617
+#: admin/gallerybox-options.php:763
+msgid "Select hover animation"
+msgstr ""
+
+#: admin/gallerybox-options.php:186
+msgid "This plugin support 16 hover animation. select one for image gallery."
+msgstr ""
+
+#: admin/gallerybox-options.php:190 admin/gallerybox-options.php:334
+#: admin/gallerybox-options.php:478 admin/gallerybox-options.php:622
+#: admin/gallerybox-options.php:768
+msgid "Animation One"
+msgstr ""
+
+#: admin/gallerybox-options.php:191 admin/gallerybox-options.php:335
+#: admin/gallerybox-options.php:479 admin/gallerybox-options.php:623
+#: admin/gallerybox-options.php:769
+msgid "Animation Two"
+msgstr ""
+
+#: admin/gallerybox-options.php:192 admin/gallerybox-options.php:336
+#: admin/gallerybox-options.php:480 admin/gallerybox-options.php:624
+#: admin/gallerybox-options.php:770
+msgid "Animation Three"
+msgstr ""
+
+#: admin/gallerybox-options.php:193 admin/gallerybox-options.php:337
+#: admin/gallerybox-options.php:481 admin/gallerybox-options.php:625
+#: admin/gallerybox-options.php:771
+msgid "Animation Four"
+msgstr ""
+
+#: admin/gallerybox-options.php:194 admin/gallerybox-options.php:338
+#: admin/gallerybox-options.php:482 admin/gallerybox-options.php:626
+#: admin/gallerybox-options.php:772
+msgid "Animation Five"
+msgstr ""
+
+#: admin/gallerybox-options.php:195 admin/gallerybox-options.php:339
+#: admin/gallerybox-options.php:483 admin/gallerybox-options.php:627
+#: admin/gallerybox-options.php:773
+msgid "Animation Six"
+msgstr ""
+
+#: admin/gallerybox-options.php:196 admin/gallerybox-options.php:340
+#: admin/gallerybox-options.php:484 admin/gallerybox-options.php:628
+#: admin/gallerybox-options.php:774
+msgid "Animation Seven"
+msgstr ""
+
+#: admin/gallerybox-options.php:197 admin/gallerybox-options.php:341
+#: admin/gallerybox-options.php:485 admin/gallerybox-options.php:629
+#: admin/gallerybox-options.php:775
+msgid "Animation Eight"
+msgstr ""
+
+#: admin/gallerybox-options.php:198 admin/gallerybox-options.php:342
+#: admin/gallerybox-options.php:486 admin/gallerybox-options.php:630
+#: admin/gallerybox-options.php:776
+msgid "Animation Nine"
+msgstr ""
+
+#: admin/gallerybox-options.php:199 admin/gallerybox-options.php:343
+#: admin/gallerybox-options.php:487 admin/gallerybox-options.php:631
+#: admin/gallerybox-options.php:777
+msgid "Animation Ten"
+msgstr ""
+
+#: admin/gallerybox-options.php:200 admin/gallerybox-options.php:344
+#: admin/gallerybox-options.php:488 admin/gallerybox-options.php:632
+#: admin/gallerybox-options.php:778
+msgid "Animation Eleven"
+msgstr ""
+
+#: admin/gallerybox-options.php:201 admin/gallerybox-options.php:345
+#: admin/gallerybox-options.php:489 admin/gallerybox-options.php:633
+#: admin/gallerybox-options.php:779
+msgid "Animation Twelve"
+msgstr ""
+
+#: admin/gallerybox-options.php:202 admin/gallerybox-options.php:346
+#: admin/gallerybox-options.php:490 admin/gallerybox-options.php:634
+#: admin/gallerybox-options.php:780
+msgid "Animation Thirteen"
+msgstr ""
+
+#: admin/gallerybox-options.php:203 admin/gallerybox-options.php:347
+#: admin/gallerybox-options.php:491 admin/gallerybox-options.php:635
+#: admin/gallerybox-options.php:781
+msgid "Animation Fourteen"
+msgstr ""
+
+#: admin/gallerybox-options.php:204 admin/gallerybox-options.php:348
+#: admin/gallerybox-options.php:492 admin/gallerybox-options.php:636
+#: admin/gallerybox-options.php:782
+msgid "Animation Fifteen"
+msgstr ""
+
+#: admin/gallerybox-options.php:205 admin/gallerybox-options.php:349
+#: admin/gallerybox-options.php:493 admin/gallerybox-options.php:637
+#: admin/gallerybox-options.php:783
+msgid "Animation Sixteen"
+msgstr ""
+
+#: admin/gallerybox-options.php:210 admin/gallerybox-options.php:354
+#: admin/gallerybox-options.php:498 admin/gallerybox-options.php:642
+#: admin/gallerybox-options.php:788
+msgid "Title background color"
+msgstr ""
+
+#: admin/gallerybox-options.php:211
+msgid "Set your image gallery item title background color."
+msgstr ""
+
+#: admin/gallerybox-options.php:218 admin/gallerybox-options.php:362
+#: admin/gallerybox-options.php:506 admin/gallerybox-options.php:650
+#: admin/gallerybox-options.php:796
+msgid "Title background opacity"
+msgstr ""
+
+#: admin/gallerybox-options.php:219
+msgid ""
+"Set your image gallery item title background opacity.Opacity value 1 to 99"
+msgstr ""
+
+#: admin/gallerybox-options.php:226 admin/gallerybox-options.php:370
+#: admin/gallerybox-options.php:514 admin/gallerybox-options.php:658
+#: admin/gallerybox-options.php:804
+msgid "Set title color"
+msgstr ""
+
+#: admin/gallerybox-options.php:227
+msgid "Set your image gallery item text color."
+msgstr ""
+
+#: admin/gallerybox-options.php:234 admin/gallerybox-options.php:378
+#: admin/gallerybox-options.php:522 admin/gallerybox-options.php:666
+#: admin/gallerybox-options.php:812
+msgid "Set title font size"
+msgstr ""
+
+#: admin/gallerybox-options.php:235 admin/gallerybox-options.php:379
+#: admin/gallerybox-options.php:523 admin/gallerybox-options.php:667
+#: admin/gallerybox-options.php:813
+msgid "Default font size is 17px."
+msgstr ""
+
+#: admin/gallerybox-options.php:242 admin/gallerybox-options.php:386
+#: admin/gallerybox-options.php:530 admin/gallerybox-options.php:674
+#: admin/gallerybox-options.php:820
+msgid "Select title text transform"
+msgstr ""
+
+#: admin/gallerybox-options.php:243 admin/gallerybox-options.php:387
+#: admin/gallerybox-options.php:531 admin/gallerybox-options.php:675
+#: admin/gallerybox-options.php:821
+msgid "Set title text uppercase or lowercase."
+msgstr ""
+
+#: admin/gallerybox-options.php:247 admin/gallerybox-options.php:535
+#: admin/gallerybox-options.php:679 admin/gallerybox-options.php:825
+msgid "Uppercase"
+msgstr ""
+
+#: admin/gallerybox-options.php:248 admin/gallerybox-options.php:392
+#: admin/gallerybox-options.php:536 admin/gallerybox-options.php:680
+#: admin/gallerybox-options.php:826
+msgid "Lowercase"
+msgstr ""
+
+#: admin/gallerybox-options.php:254 admin/gallerybox-options.php:398
+#: admin/gallerybox-options.php:542 admin/gallerybox-options.php:686
+#: admin/gallerybox-options.php:832
+msgid "Set title padding"
+msgstr ""
+
+#: admin/gallerybox-options.php:255 admin/gallerybox-options.php:399
+#: admin/gallerybox-options.php:543 admin/gallerybox-options.php:687
+#: admin/gallerybox-options.php:833
+msgid "Set your title padding default padding is 10px."
+msgstr ""
+
+#: admin/gallerybox-options.php:262 admin/gallerybox-options.php:550
+#: admin/gallerybox-options.php:694 admin/gallerybox-options.php:840
+msgid "Set Button font size"
+msgstr ""
+
+#: admin/gallerybox-options.php:263 admin/gallerybox-options.php:695
+#: admin/gallerybox-options.php:841
+msgid "Default font size 14px."
+msgstr ""
+
+#: admin/gallerybox-options.php:270 admin/gallerybox-options.php:414
+#: admin/gallerybox-options.php:558 admin/gallerybox-options.php:702
+#: admin/gallerybox-options.php:848
+msgid "Button text color"
+msgstr ""
+
+#: admin/gallerybox-options.php:271
+msgid "Set Image gallery item button text color."
+msgstr ""
+
+#: admin/gallerybox-options.php:278 admin/gallerybox-options.php:422
+#: admin/gallerybox-options.php:566 admin/gallerybox-options.php:710
+#: admin/gallerybox-options.php:856
+msgid "Button border color"
+msgstr ""
+
+#: admin/gallerybox-options.php:279
+msgid "Set Image gallery item button border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:290
+msgid "Youtube gallery column."
+msgstr ""
+
+#: admin/gallerybox-options.php:291
+msgid ""
+"Set your Youtube gallery Column. Some of the animation may not work properly "
+"in 4 column."
+msgstr ""
+
+#: admin/gallerybox-options.php:302
+msgid "youtube column border"
+msgstr ""
+
+#: admin/gallerybox-options.php:303
+msgid "Set your youtube border by px. default value 0"
+msgstr ""
+
+#: admin/gallerybox-options.php:310
+msgid "youtube column border color"
+msgstr ""
+
+#: admin/gallerybox-options.php:311
+msgid "Set your youtube border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:317
+msgid "youtube column border type"
+msgstr ""
+
+#: admin/gallerybox-options.php:330
+msgid ""
+"This plugin support 16 hover animation. select one for Youtube video gallery."
+msgstr ""
+
+#: admin/gallerybox-options.php:355
+msgid "Set your Youtube gallery item title background color."
+msgstr ""
+
+#: admin/gallerybox-options.php:363
+msgid ""
+"Set your Youtube gallery item title background opacity.Opacity value 1 to 99"
+msgstr ""
+
+#: admin/gallerybox-options.php:371
+msgid "Set your Youtube gallery item text color."
+msgstr ""
+
+#: admin/gallerybox-options.php:391
+msgid "uppercase"
+msgstr ""
+
+#: admin/gallerybox-options.php:406
+msgid "Set button font size"
+msgstr ""
+
+#: admin/gallerybox-options.php:407
+msgid "Default font size 14px ."
+msgstr ""
+
+#: admin/gallerybox-options.php:415
+msgid "Set Youtube gallery item button text color."
+msgstr ""
+
+#: admin/gallerybox-options.php:423
+msgid "Set Youtube gallery item button border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:434
+msgid "Vimeo gallery column."
+msgstr ""
+
+#: admin/gallerybox-options.php:435
+msgid ""
+"Set your Vimeo gallery Column. Some of the animation may not work properly "
+"in 4 column."
+msgstr ""
+
+#: admin/gallerybox-options.php:446
+msgid "vimeo column border"
+msgstr ""
+
+#: admin/gallerybox-options.php:447
+msgid "Set your vimeo border by px. default value 0"
+msgstr ""
+
+#: admin/gallerybox-options.php:454
+msgid "vimeo column border color"
+msgstr ""
+
+#: admin/gallerybox-options.php:455
+msgid "Set your vimeo border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:461
+msgid "vimeo column border type"
+msgstr ""
+
+#: admin/gallerybox-options.php:474
+msgid ""
+"This plugin support 16 hover animation. select one for vimeo video gallery."
+msgstr ""
+
+#: admin/gallerybox-options.php:499
+msgid "Set your Vimeo gallery item title background color."
+msgstr ""
+
+#: admin/gallerybox-options.php:507
+msgid ""
+"Set your Vimeo gallery item title background opacity.Opacity value 1 to 99"
+msgstr ""
+
+#: admin/gallerybox-options.php:515
+msgid "Set your Vimeo gallery item text color."
+msgstr ""
+
+#: admin/gallerybox-options.php:551
+msgid "Default font size 14px "
+msgstr ""
+
+#: admin/gallerybox-options.php:559
+msgid "Set vimeo gallery item button text color."
+msgstr ""
+
+#: admin/gallerybox-options.php:567
+msgid "Set vimeo gallery item button border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:578
+msgid "Soundcloud gallery column."
+msgstr ""
+
+#: admin/gallerybox-options.php:579
+msgid ""
+"Set your Soundcloud gallery Column. Some of the animation may not work "
+"properly in 4 column."
+msgstr ""
+
+#: admin/gallerybox-options.php:590
+msgid "soundcloud column border"
+msgstr ""
+
+#: admin/gallerybox-options.php:591
+msgid "Set your soundcloud border by px. default value 0"
+msgstr ""
+
+#: admin/gallerybox-options.php:598
+msgid "soundcloud column border color"
+msgstr ""
+
+#: admin/gallerybox-options.php:599
+msgid "Set your soundcloud border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:605
+msgid "soundcloud column border type"
+msgstr ""
+
+#: admin/gallerybox-options.php:618
+msgid ""
+"This plugin support 16 hover animation. select one for Soundcloud audio "
+"gallery."
+msgstr ""
+
+#: admin/gallerybox-options.php:643 admin/gallerybox-options.php:789
+msgid "Set your Soundcloud gallery item title background color."
+msgstr ""
+
+#: admin/gallerybox-options.php:651 admin/gallerybox-options.php:797
+msgid ""
+"Set your Soundcloud gallery item title background opacity.Opacity value 1 to "
+"99"
+msgstr ""
+
+#: admin/gallerybox-options.php:659 admin/gallerybox-options.php:805
+msgid "Set your Soundcloud gallery item text color."
+msgstr ""
+
+#: admin/gallerybox-options.php:703
+msgid "Set Soundcloud gallery item button text color."
+msgstr ""
+
+#: admin/gallerybox-options.php:711
+msgid "Set Soundcloud gallery item button border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:724
+msgid "iframe gallery column."
+msgstr ""
+
+#: admin/gallerybox-options.php:725
+msgid ""
+"Set your iframe gallery Column. Some of the animation may not work properly "
+"in 4 column."
+msgstr ""
+
+#: admin/gallerybox-options.php:736
+msgid "iframe column border"
+msgstr ""
+
+#: admin/gallerybox-options.php:737
+msgid "Set your iframe border by px. default value 0"
+msgstr ""
+
+#: admin/gallerybox-options.php:744
+msgid "iframe column border color"
+msgstr ""
+
+#: admin/gallerybox-options.php:745
+msgid "Set your iframe border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:751
+msgid "iframe column border type"
+msgstr ""
+
+#: admin/gallerybox-options.php:764
+msgid "This plugin support 16 hover animation. select one for iframe gallery."
+msgstr ""
+
+#: admin/gallerybox-options.php:849
+msgid "Set iframe gallery item button text color."
+msgstr ""
+
+#: admin/gallerybox-options.php:857
+msgid "Set iframe gallery item button border color."
+msgstr ""
+
+#: admin/gallerybox-options.php:872
+msgid "Gallery box settings"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:15
+msgid "galleries"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:16
+msgid "gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:17 admin/gallerybox-post-type.php:18
+msgid "Gallery Box"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:19 admin/gallerybox-post-type.php:20
+msgid "Add New gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:21
+msgid "New gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:22
+msgid "Edit gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:23
+msgid "View gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:24
+msgid "All gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:25
+msgid "Parent gallery:"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:26
+msgid "No gallery found."
+msgstr ""
+
+#: admin/gallerybox-post-type.php:27
+msgid "No gallery found in Trash."
+msgstr ""
+
+#: admin/gallerybox-post-type.php:32
+msgid ""
+"You can create gallery with image, Youtube and Vimeo video, Soundcloud audio "
+"and i-frame content by gallery box."
+msgstr ""
+
+#: admin/gallerybox-post-type.php:78
+msgid "Gallery updated. Shortcode is:"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:79
+msgid "Gallery field updated. Shortcode is:"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:80
+msgid "Gallery field deleted."
+msgstr ""
+
+#: admin/gallerybox-post-type.php:81
+msgid "Gallery item updated."
+msgstr ""
+
+#: admin/gallerybox-post-type.php:83
+#, php-format
+msgid "Gallery restored to revision from %s"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:84
+msgid "Gallery published. Shortcode is:"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:85
+msgid "Gallery saved."
+msgstr ""
+
+#: admin/gallerybox-post-type.php:86
+msgid "Gallery submitted."
+msgstr ""
+
+#: admin/gallerybox-post-type.php:88
+#, php-format
+msgid "Gallery item scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/gallerybox-post-type.php:90
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:92
+msgid "Gallery draft updated."
+msgstr ""
+
+#: admin/gallerybox-post-type.php:105 includes/gallerybox-shortcode.php:60
+msgid "Image gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:110 includes/gallerybox-shortcode.php:107
+msgid "Youtube gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:115
+msgid "Vimeo gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:120
+msgid "Soundcloud gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:125
+msgid "iframe gallery"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:137
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:138
+msgid "Gallery type"
+msgstr ""
+
+#: admin/gallerybox-post-type.php:213
+msgid "Enter gallery name"
+msgstr ""
+
+#: includes/gallerybox-shortcode.php:65
+msgid "View large"
+msgstr ""
+
+#: includes/gallerybox-shortcode.php:113 includes/gallerybox-shortcode.php:165
+msgid "Show video"
+msgstr ""
+
+#: includes/gallerybox-shortcode.php:159
+msgid "Vimeo title"
+msgstr ""
+
+#: includes/gallerybox-shortcode.php:214
+msgid "Soundcloud title"
+msgstr ""
+
+#: includes/gallerybox-shortcode.php:218
+msgid "Listen song"
+msgstr ""
+
+#: includes/gallerybox-shortcode.php:263
+msgid "iframe title"
+msgstr ""
+
+#: includes/gallerybox-shortcode.php:275
+msgid "Show all"
+msgstr ""
+
+#: includes/gallerybox-shortcode.php:321
+msgid "simple Youtube video"
+msgstr ""
+
+#: includes/gallerybox-shortcode.php:338
+msgid "simple Vimeo video"
+msgstr ""

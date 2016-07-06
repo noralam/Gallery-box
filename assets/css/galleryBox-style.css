@@ -1,0 +1,79 @@
+/*default css*/
+
+#boxGallery {
+  font-family: 'colaborate-thinregular', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+#boxGallery img {
+  width: 100%;
+  height: auto;
+}
+ 
+#boxGallery h1 {
+  font-size: 50px;
+}
+
+#boxGallery pre {
+  letter-spacing: 0px;
+  text-transform: none;
+}
+#boxGallery.Gallery-container {
+  display: block;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  width: 100%;
+}
+#boxGallery .gcolumn-2 {
+ width:50%;
+ float:left;
+}
+#boxGallery .gcolumn-3 {
+ width:33.33%;
+ float:left;
+}
+#boxGallery .gcolumn-4 {
+ width:25%;
+ float:left;
+}
+#boxGallery .You-gallery h2::before {
+  z-index: -1;
+}
+#boxGallery .You-gallery h2 {
+  z-index: 99;
+}
+.gbox-error {
+  color:#ff0000;
+  font-size:40px;
+  text-align:center
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+#boxGallery .gcolumn-2 {
+ width:100%;
+ float:left;
+}
+#boxGallery .gcolumn-3,
+#boxGallery .gcolumn-4  {
+ width:50%;
+ float:left;
+}
+.gbox-error {
+  font-size:30px;
+}
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+#boxGallery .gcolumn-2,
+#boxGallery .gcolumn-3,
+#boxGallery .gcolumn-4{
+ width:100%;
+ float:left;
+}
+.gbox-error {
+  font-size:20px;
+}
+
+}
